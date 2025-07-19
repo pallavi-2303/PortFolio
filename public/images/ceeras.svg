@@ -1,0 +1,12 @@
+
+<svg width="150" height="40" viewBox="0 0 150 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ceerasGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#003A75" />
+      <stop offset="100%" stop-color="#00756B" />
+    </linearGradient>
+  </defs>
+  <text x="0" y="30" font-size="30" font-family="Georgia, serif" fill="url(#ceerasGradient)">
+    CEERAS
+  </text>
+</svg>

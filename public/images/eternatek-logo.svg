@@ -1,0 +1,13 @@
+
+<svg width="300" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="80" fill="white"/>
+  <!-- Placeholder hex icon -->
+  <polygon points="30,10 50,20 50,40 30,50 10,40 10,20" fill="#0b1d21"/>
+  <rect x="20" y="25" width="15" height="20" rx="4" ry="4" fill="#a700ff"/>
+  <text x="60" y="35" font-family="Georgia, serif" font-size="22" fill="#000">
+    Eternatek
+  </text>
+  <text x="60" y="60" font-family="Georgia, serif" font-size="14" fill="#000">
+    Technologies Pvt Ltd
+  </text>
+</svg>
