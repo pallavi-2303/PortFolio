@@ -394,7 +394,7 @@ const bottomRow=[
       "Secured 9th rank in Gautam Buddha District (Class 10) with INR 25,000 prize and tablet.",
   },
 ]
-const resumeUrl="https://drive.google.com/file/d/1nZW4mr68Rzbr1KU5j6mWDCRk37WsEZkJ/view?usp=drivesdk"
+const resumeUrl="https://drive.google.com/file/d/1nmBH9wAlTIQvZqxN11X3CfmC0ijSuU2M/view?usp=drivesdk"
 export {
   words,
   abilities,
