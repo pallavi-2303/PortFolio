@@ -37,7 +37,7 @@ A fully responsive, interactive, and animated personal portfolio website built u
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/pallavi-2303/portfolio.git
 cd portfolio
 
 
