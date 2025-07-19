@@ -58,9 +58,14 @@ const Hero = () => {
               <h3>into Real Projects</h3>
               <h3>that Deliver Results</h3>
             </div>
-            <p className="text-white-50 md:text-2xl relative z-10 pointer-events-none">
+            <p className="text-white-50 md:text-3xl relative z-10 pointer-events-none">
           Hello, I am Pallavi Kumari
             </p>
+       <p className="text-white-50 md:text-xl relative z-10 pointer-events-none max-w-3xl leading-relaxed mt-0">
+  A passionate Full Stack Developer skilled in React.js, Next.js, Node.js, TypeScript, JavaScript, Three.js, and modern web technologies — crafting dynamic, responsive, and user-focused applications.
+</p>
+
+
             <Button
               className="md:w-80 md:h-16 w-60 h-12"
           onClick={handleClickResume}
