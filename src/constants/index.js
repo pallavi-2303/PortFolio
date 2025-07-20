@@ -35,7 +35,6 @@ const counterItems = [
   { value: 95, suffix: "%", label: "Client/Team Satisfaction" },
 ];
 
-
 const logoIconsList = [
   {
     imgPath: "/images/logos/company-logo-1.png",
@@ -108,7 +107,7 @@ const techStackImgs = [
     imgPath: "/images/logos/javascript.svg",
   },
   {
-    name: "Tailwind CSS", 
+    name: "Tailwind CSS",
     imgPath: "/images/logos/tailwindcss.png",
   },
   {
@@ -135,7 +134,7 @@ const techStackImgs = [
     name: "Git / GitHub",
     imgPath: "/images/logos/git.svg",
   },
-   {
+  {
     name: "Mongo-db",
     imgPath: "/images/logos/mongodb_thumbnail.webp",
   },
@@ -166,17 +165,17 @@ const techStackIcons = [
     scale: 0.05,
     rotation: [0, 0, 0],
   },
- 
 ];
 
 const expCards = [
   {
-   imgPath: "/images/eternatek-logo.svg",
+    imgPath: "/images/eternatek-logo.svg",
     logoPath: "/images/joblogo/c.jpg",
     title: "SoftWare Developer Intern",
     date: "May 2023 - Present",
-    company:"Eternatek Technologies",
-     review: "Currently contributing to scalable frontend and backend development. Gaining hands-on experience in real-time data systems and collaborative product development.",  
+    company: "Eternatek Technologies",
+    review:
+      "Currently contributing to scalable frontend and backend development. Gaining hands-on experience in real-time data systems and collaborative product development.",
     responsibilities: [
       "Built a Graduation Dashboard using React.js and Tailwind CSS for 500+ students, enabling real-time academic progress tracking; delivery is on track within 2 weeks.",
       "Developed scalable backend services using Node.js and PostgreSQL for authentication, quizzes, course APIs, and feedback, ensuring smooth rollouts and handling high user load efficiently.",
@@ -184,12 +183,13 @@ const expCards = [
     ],
   },
   {
-     imgPath: "/images/logos/panha.png",
-   logoPath: "/images/joblogo/p.jpg",
+    imgPath: "/images/logos/panha.png",
+    logoPath: "/images/joblogo/p.jpg",
     title: "Full Stack Developer Intern",
     date: "Apr 2025 - Present",
-    company:"Panha",
-      review: "Actively involved in building core features of the platform, collaborating with cross-functional teams, and delivering production-ready components during the startup's MVP phase.",
+    company: "Panha",
+    review:
+      "Actively involved in building core features of the platform, collaborating with cross-functional teams, and delivering production-ready components during the startup's MVP phase.",
     responsibilities: [
       "Designed and developed a responsive landing page using Figma, React.js, and Tailwind CSS, increasing user interaction time by 30% during the pre-launch phase.",
       "Implemented authentication features (login/signup) using Node.js, Express, and JWT, reducing user login errors by 25% and improving security.",
@@ -198,27 +198,31 @@ const expCards = [
   },
   {
     imgPath: "/images/ceeras.svg",
-     logoPath: "/images/joblogo/e.jpg",
+    logoPath: "/images/joblogo/e.jpg",
     title: "Frontend Developer Intern",
     date: "Feb 2025 - Apr 2025",
-    company:"Ceeras",
-      review: "Pallavi delivered all assigned responsibilities effectively and to our satisfaction, reflecting her competence and dedication.", 
-     certificate:"https://drive.google.com/file/d/1YpGysFBI7DpfCFMaBgZw8_UoYjT9BXz2/view",
+    company: "Ceeras",
+    review:
+      "Pallavi delivered all assigned responsibilities effectively and to our satisfaction, reflecting her competence and dedication.",
+    certificate:
+      "https://drive.google.com/file/d/1YpGysFBI7DpfCFMaBgZw8_UoYjT9BXz2/view",
     responsibilities: [
       "Enhanced the UI performance by 30% by optimizing React component rendering and state management.",
       "Implemented responsive design, increasing mobile usability by 40% and reducing bounce rates by 20%  and maintained 10+ reusable React components, improving development efficiency.",
       "Collaborated with backend developers to improve API integration, leading to 25% faster data fetching.",
     ],
   },
-   {
-     imgPath: "/images/logos/aicte.png",
-   logoPath: "/images/joblogo/a.jpg",
-   
+  {
+    imgPath: "/images/logos/aicte.png",
+    logoPath: "/images/joblogo/a.jpg",
+
     title: "Blockchain Technology (Virtual InternShip)",
     date: "Jan 2025 - Feb 2025",
-     review: "Pallavi successfully completed the internship on Blockchain Technology. Her dedication and ability to understand complex concepts were appreciated.",  
-    company:"AICTE and VOIS for Tech University Program",
-   certificate:"https://drive.google.com/file/d/1mqaWIVyctn675dEAjxt6jDX3-jbms4-H/view?usp=drivesdk",
+    review:
+      "Pallavi successfully completed the internship on Blockchain Technology. Her dedication and ability to understand complex concepts were appreciated.",
+    company: "AICTE and VOIS for Tech University Program",
+    certificate:
+      "https://drive.google.com/file/d/1mqaWIVyctn675dEAjxt6jDX3-jbms4-H/view?usp=drivesdk",
     responsibilities: [
       "Explored core blockchain concepts, including consensus mechanisms, cryptographic hashing, and decentralized storage, to understand secure data transmission in distributed systems.",
       "Worked with smart contracts and dApps, gaining practical experience in how decentralized applications operate on blockchain networks and how contracts are executed autonomously.",
@@ -291,27 +295,27 @@ const socialImgs = [
   {
     name: "GitHub",
     imgPath: "/images/github.png",
-    url:"https://github.com/pallavi-2303",
+    url: "https://github.com/pallavi-2303",
   },
   {
     name: "LeetCode",
     imgPath: "/images/leetcode.png",
-    url:"https://leetcode.com/u/pallavi_singh14/"
+    url: "https://leetcode.com/u/pallavi_singh14/",
   },
   {
     name: "GFG",
     imgPath: "/images/geek.png",
-    url:"https://www.geeksforgeeks.org/user/singhpallav8wbw/"
+    url: "https://www.geeksforgeeks.org/user/singhpallav8wbw/",
   },
   {
     name: "Linkedin",
     imgPath: "/images/linkedIn.png",
-    url:"https://www.linkedin.com/in/pallavi-singh-8241a7255/"
+    url: "https://www.linkedin.com/in/pallavi-singh-8241a7255/",
   },
-   {
+  {
     name: "CodeForces",
     imgPath: "/images/codeforce.png",
-    url:"https://codeforces.com/profile/Pallavi_kumari14"
+    url: "https://codeforces.com/profile/Pallavi_kumari14",
   },
 ];
 const projectData = [
@@ -321,7 +325,8 @@ const projectData = [
       "Full-stack screen recording and video sharing platform with Better Auth and Cloudinary, featuring AI transcripts, video playback, and responsive UI.",
     image: "/images/snapcast.png", // Replace with actual screenshot path
     liveLink: "https://screen-recording-vedio-sharing-tu8j.vercel.app/", // Update if available
-    githubLink: "https://github.com/pallavi-2303/Screen_recording_vedio_sharing",
+    githubLink:
+      "https://github.com/pallavi-2303/Screen_recording_vedio_sharing",
   },
   {
     title: "AI Interviewer",
@@ -334,8 +339,8 @@ const projectData = [
   {
     title: "SkillSathi AI – Intelligent Learning Platform",
     description:
-   "Built for EY Techathon 5.0, this AI-based platform includes skill assessments, personalized and gamified learning, gap identification, a WebSocket-powered community, progress tracking, and course recommendations.",
-   image: "/images/skillSathi.png",
+      "Built for EY Techathon 5.0, this AI-based platform includes skill assessments, personalized and gamified learning, gap identification, a WebSocket-powered community, progress tracking, and course recommendations.",
+    image: "/images/skillSathi.png",
     liveLink: "https://skill-sathi-ai.vercel.app/",
     githubLink: "https://github.com/utkarsh-2033/SkillSathiAi",
   },
@@ -347,23 +352,22 @@ const projectData = [
     liveLink: "https://fullstack-lms2.onrender.com/",
     githubLink: "https://github.com/pallavi-2303/FullStack_LMS",
   },
-   {
+  {
+    title: "AI Resume Analyzer",
+    description:
+      "An AI-powered resume analyzer built with React, TypeScript, Tailwind CSS, and Puter.js. Enables resume uploads, browser-only authentication, and smart ATS scoring with personalized AI feedback. Fully responsive and built with reusable UI components.",
+    image: "/images/resume.png",
+    liveLink: "https://ai-resume-analizer.vercel.app/",
+    githubLink: "https://github.com/pallavi-2303/AIResumeAnalizer",
+  },
+  {
     title: "GSAP Cocktail – Cinematic Scroll Experience",
     description:
-   "A visually stunning, scroll-driven website built with React, Tailwind CSS, and GSAP. Features cinematic animations like SplitText, scroll-synced video, and a custom carousel for immersive storytelling.",
-   image: "/images/gsap.png",
+      "A visually stunning, scroll-driven website built with React, Tailwind CSS, and GSAP. Features cinematic animations like SplitText, scroll-synced video, and a custom carousel for immersive storytelling.",
+    image: "/images/gsap.png",
     liveLink: "https://gsap-cock-tail.vercel.app/",
     githubLink: "https://github.com/pallavi-2303/Gsap_CockTail",
   },
-   {
-    title: "InstaClone",
-    description:
-  "A full-stack Instagram clone with React, Redux, Node.js, and WebSocket. Supports auth, posts, likes, comments, and real-time notifications with a responsive Tailwind UI and cloud storage.",
-   image: "/images/insta2.png",
-    liveLink: "https://fullstack-instaclone.onrender.com/",
-    githubLink: "https://github.com/pallavi-2303/FullStack_InstaClone",
-  },
-    
 ];
 const topRow = [
   {
@@ -380,10 +384,9 @@ const topRow = [
     title: "Merit Certificate (Top 1%)",
     description: "Among 5,00,000+ participants in NanhiK Young India Tours.",
   },
-
 ];
-const bottomRow=[
-   {
+const bottomRow = [
+  {
     title: "SheFi Scholar 2025",
     description:
       "Awarded a full scholarship for Web3 learning as part of the SheFi program.",
@@ -393,8 +396,9 @@ const bottomRow=[
     description:
       "Secured 9th rank in Gautam Buddha District (Class 10) with INR 25,000 prize and tablet.",
   },
-]
-const resumeUrl="https://drive.google.com/file/d/1nmBH9wAlTIQvZqxN11X3CfmC0ijSuU2M/view?usp=drivesdk"
+];
+const resumeUrl =
+  "https://drive.google.com/file/d/1nmBH9wAlTIQvZqxN11X3CfmC0ijSuU2M/view?usp=drivesdk";
 export {
   words,
   abilities,
@@ -410,5 +414,5 @@ export {
   resumeUrl,
   projectData,
   topRow,
-  bottomRow
+  bottomRow,
 };
