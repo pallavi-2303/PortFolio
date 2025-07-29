@@ -360,14 +360,14 @@ const projectData = [
     liveLink: "https://ai-resume-analizer.vercel.app/",
     githubLink: "https://github.com/pallavi-2303/AIResumeAnalizer",
   },
-  {
-    title: "GSAP Cocktail – Cinematic Scroll Experience",
-    description:
-      "A visually stunning, scroll-driven website built with React, Tailwind CSS, and GSAP. Features cinematic animations like SplitText, scroll-synced video, and a custom carousel for immersive storytelling.",
-    image: "/images/gsap.png",
-    liveLink: "https://gsap-cock-tail.vercel.app/",
-    githubLink: "https://github.com/pallavi-2303/Gsap_CockTail",
-  },
+ {
+  title: "StoreIt – File Storage & Sharing Platform",
+  description:
+    "A modern file management platform built with Next.js 15, React 19, Appwrite, and TailwindCSS. StoreIt lets users upload, organize, share, rename, and delete files with powerful features like OTP authentication, dashboard analytics, and global search.",
+  image: "/images/storeIt.png", // Make sure you have this image in your public/images folder
+  liveLink: "https://storage-app-bay.vercel.app/", // Replace with your actual live link
+  githubLink: "https://github.com/pallavi-2303/Storage_App",
+}
 ];
 const topRow = [
   {
